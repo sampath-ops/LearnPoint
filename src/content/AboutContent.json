@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Manual & Automation",
+  "text": "Testing is essential for delivering high-quality software that meets user requirements and performs as intended.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why Manual?",
+      "content": "Manual testing is the process of manually executing test cases and scripts to identify software defects. ",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Why Automation?",
+      "content": "Automation testing involves using specialized software tools to execute tests, compare actual results with expected results, and generate detailed reports.",
       "icon": "notes.svg"
     }
   ]
